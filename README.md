@@ -18,11 +18,11 @@
 ## 🚀 Featured Project
 
 ### [📚 Novademy](https://github.com/fakhri2406/Novademy.git)
-An EdTech platform tailored to high school students in Azerbaijan preparing for exams.
+An EdTech platform tailored to high school students in Azerbaijan preparing for exams. Now includes an AI chatbot!
 
 - Built using ASP.NET with RESTful Web APIs
-- Scalable, layered architecture with EF Core and Dapper
-- Backend hosted on Microsoft Azure
-- Includes automated unit tests with xUnit & Moq
+- Scalable, layered architecture
+- Backend and database hosted on Microsoft Azure
+- Includes automated unit tests
 
-🛠 *Tech:* ASP.NET, EF Core, Dapper, xUnit, Moq, MS Azure
+🛠 *Tech:* ASP.NET, EF Core, xUnit, Moq, MS Azure
