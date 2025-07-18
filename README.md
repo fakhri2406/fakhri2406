@@ -12,23 +12,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)<br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-## 🚀 Featured Project
-
-### [📚 Novademy](https://github.com/fakhri2406/Novademy.git) (development currently paused)
-An EdTech platform tailored to high school students in Azerbaijan preparing for exams. Now includes an AI chatbot! The project is currently on pre-production stage and is available at [novademy.az](https://novademy.az).
-
-- Built using ASP.NET with RESTful Web APIs
-- Scalable, layered architecture
-- Automated unit tests
-- Closely integrated with MS Azure
-- Includes a [user frontend](https://github.com/fakhri2406/novademy-front.git), admin panel and a mobile application
-- Currently working on a [mirror](https://github.com/fakhri2406/novademy-mirror.git) written on Java / Spring Boot
-
-###  🔧 Tech Stack
-- Backend: ASP.NET, EF Core, JWT, xUnit, Moq, Swagger
-- Frontend: React, TypeScript, Redux, React Router DOM, Axios, Bootstrap
-- Mobile: React Native
-- Services & Infrastructure: MS Azure
